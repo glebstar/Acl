@@ -164,5 +164,3 @@ if ( !function_exists('__autoload') ) {
         require_once($class . '.php');
     }
 }
-
-?>

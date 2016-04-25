@@ -287,4 +287,3 @@ class AuthAcl_Abstract
         return $this->_errormessage;
     }
 }
-?>

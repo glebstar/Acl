@@ -70,5 +70,3 @@ interface AuthAcl_IDriver
 
     public function deleteUserFromGroup($groupId, $userId);
 }
-
-?>

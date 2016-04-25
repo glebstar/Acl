@@ -37,5 +37,3 @@ interface AuthAcl_IAuth
     
     public function checkAuth();
 }
-
-?>

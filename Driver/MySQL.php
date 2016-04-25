@@ -844,5 +844,3 @@ class AuthAcl_Driver_MySQL implements AuthAcl_IDriver
         $this->_connection->exec($query);
     }
 }
-
-?>

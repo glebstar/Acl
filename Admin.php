@@ -277,4 +277,3 @@ class AuthAcl_Admin extends AuthAcl_Abstract
             );
     }
 }
-?>
